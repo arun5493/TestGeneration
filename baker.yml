@@ -1,0 +1,6 @@
+name: testgen
+vm:
+  ip: 192.168.13.100
+lang:
+  - python2
+  - nodejs9
