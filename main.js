@@ -26,6 +26,7 @@ require('./src/format-polyfill');
     let args = process.argv.slice(2);
     if( args.length === 0 ) {
         args = ["subject.js"];
+        console.log("Testing coverage for: " + args);
     }
     let filePath = path.resolve(args[0]);
 
