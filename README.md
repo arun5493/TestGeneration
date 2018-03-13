@@ -32,13 +32,16 @@ Running main.js will generate a test.js file which has all the test cases to tes
 
 
 
-### Report for Subject.js
+### Report for subject.js
 
 ![alt text](screenshots/summary_subject.png "Summary of Coverage report for Subject.js")
 
 ![alt text](screenshots/subject.png "subject.js Coverage Report report")
 
 ![alt text](screenshots/subject_terminal.png "Console output for subject.js")
+
+
+### Report for mystery.js
 
 ![alt text](screenshots/summary_mystery.png "Summary of Coverage report for mystery.js")
 
