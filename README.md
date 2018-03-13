@@ -29,6 +29,7 @@ node_modules/.bin/istanbul cover test.js
 ```
 
 Running main.js will generate a test.js file which has all the test cases to test the coverage.
+Running the test.js will generate the coverage report which can be found at `coverage/lcov-report/HW2/index.html`
 
 
 
