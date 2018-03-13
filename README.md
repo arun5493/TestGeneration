@@ -6,7 +6,7 @@ CSC 519 - DevOps - Test Generation and Coverage using NodeJS, Istanbul (npm pack
 
 #### Step One
 ```
-git clone 
+git clone https://github.ncsu.edu/ajagana/HW2.git
 cd HW2
 npm install
 ```
